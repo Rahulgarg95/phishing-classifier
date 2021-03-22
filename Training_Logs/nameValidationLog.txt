@@ -1,0 +1,4 @@
+2020-02-16/16:33:43		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
+2020-02-16/17:27:45		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
+2021-03-21/11:35:23		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
+2021-03-21/11:37:01		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
